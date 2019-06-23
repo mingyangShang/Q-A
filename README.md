@@ -1,2 +1,2 @@
-# Q-A
+# Q&A
 Question and answer 
